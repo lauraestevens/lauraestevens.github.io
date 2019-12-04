@@ -4,10 +4,10 @@ title: Communication
 ---
 Open communication between parents, students, and school is extremely important. And with that sentence, I have won first prize in the _Tell Us Something We **Don't** Know!_ contest; thank you so much for all your support!
 
-But keeping parents abreast of what's going on in school is super important to me, because
+But I do care a great deal about keeping parents abreast of what's going on in school, because
 1. Parents probably want to know what their children are up to. Are they happy? Are they working hard? Are they learning? That's the whole point of being alive! Parents want to know that their children are all right!
 2. If parents don't want to know that, then that's probably something I should be aware of too! Communication gives me a window into my students' home lives.
-3. Having established a good relationship by communicating all the awesome stuff a student has been doing will make it easier for parents to hear from me when their student is missing three assignments or dropped the f-bomb or what have you. 
+3. Having established a good relationship by communicating all the awesome stuff a student has been doing will make it easier for parents to hear from me when their student is missing several assignments or has behaved inappropriately.
 
 We are really all of us --- parents, students, and teachers --- in a partnership, and uneven communication in a partnership doesn't lead to healthy dynamics. 
 
@@ -22,4 +22,4 @@ And just for students, some of these practices might be effective:
 1. Weekly mini-reports, with your current grade, any missing assignments, and a quick note of encouragement. 
 2. Open office hours, maybe during lunch or for the first hour or so after school, to come check in, get some homework help, etc. 
 
-I'd also like to address communication by action. I would go to all my students' games, even though sports are boring; I'd go to their plays and concerts; I'd go to their Magic: The Gathering tournaments if they told me about them. Showing up for kids does so much to build trust, and that's really the core purpose of communication. 
+I'd also like to address communication by action. I will go to all my students' games, even though sports are boring; I will go to their plays and concerts; I'll go to their Magic: The Gathering tournaments if they tell me about them. Showing up for kids does so much to build trust, and that's really the core purpose of communication. 

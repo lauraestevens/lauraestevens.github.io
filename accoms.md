@@ -2,9 +2,7 @@
 layout: default
 title: Accommodating Students with LD/SEN
 ---
-This is one of _the most important_ things for me. I am _so serious_ about educational accessibility. I start getting angry about it. It's a civil rights issue! We can't just ignore the _rights of children_! Of _**children!**_ 
-
-.... Okay. I'm better now. Here are some ways to approach students with learning disabilities or other special educational needs. Because I'll be teaching science, my focus will be on accommodating students in science classes, and because physics is so math-intensive, math learning disabilities and math anxiety is a special interest of mine. 
+This is one of _the most important_ things for me. I am _so serious_ about educational accessibility. Here are some ways to approach students with learning disabilities or other special educational needs. Because I'll be teaching science, my focus will be on accommodating students in science classes, and because physics is so math-intensive, math learning disabilities and math anxiety is a special interest of mine. 
 
 ## Math LD: Manipulatives
 All students learning any math will benefit from manipulatives, or objects used to represent mathematical concepts. These can be as simple as beans reprensenting numbers, to 3D-printed projections of extradimensional shapes. They are essentially math's answer to models in science: think of the ball-and-stick models of chemical compounds. 
