@@ -3,9 +3,7 @@ layout: default
 title: UDL
 ---
 
-I will begin this section with an anecdote ripped from the pages of my life. Both my parents got masters degrees in education (and even <a href="https://www.amazon.com/Designing-Electronic-Performance-Support-Tools/dp/0877782830/" target="_blank">wrote an instructional design book together</a>, isn't that adorable?), so you can say I was doomed to this profession. I mean destined! Destined to this profession! Anyway, when I started getting familiar with educational theory and practice, I complained to them, "This is all pretty obvious," and they both said, "Yeah, for you, but not for everyone." 
-
-When we talk about multiple methods for engagement, for representation, and for expression, we're really talking about making education accessible, and if you read my accommodations section, you already know that that's my jam. So for me, UDL _is_ teaching. It’s just what teaching should be. If some method of engagement doesn’t work for some of your students, you try a different method! And if something feels obvious to you, that doesn’t mean that's true for everyone---and it's a teacher's job to reach _everyone._
+When we talk about multiple methods for engagement, for representation, and for expression, we're really talking about making education accessible and equitable. It's really an issue of justice. So for me, UDL _is_ teaching. It’s just what teaching should be. If some method of engagement doesn’t work for some of your students, you try a different method! And if something feels obvious to you, that doesn’t mean that's true for everyone---and it's a teacher's job to reach _everyone._
 
 So here are a few UDL-appropriate strategies I plan to use in my classroom. 
 

@@ -2,13 +2,13 @@
   link: /philosophy.html
 - name: All About Rules
   link: /rules.html
-- name: Work Management
-  link: /work.html
-- name: Communcation
+- name: Communication
   link: /communication.html
-- name: Accommodations
-  link: /accoms.html
+- name: Lesson Plans
+  link: /lp.html
+#- name: Accommodations
+#  link: /accoms.html
 - name: UDL
   link: /udl.html
-- name: Summary
-  link: /summary.html
+#- name: Summary
+#  link: /summary.html

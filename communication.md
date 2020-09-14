@@ -11,12 +11,11 @@ But I do care a great deal about keeping parents abreast of what's going on in s
 
 We are really all of us --- parents, students, and teachers --- in a partnership, and uneven communication in a partnership doesn't lead to healthy dynamics. 
 
-So here are some ways I'd keep channels of communication open with both parents and students:
-1. Introductory postcards! One to each student, one to their parents/guardians. It will read something like this:
+So here are some ways I could keep channels of communication open with both parents and students:
+1. Introductory postcards/emails---one to each student, one to their parents/guardians. It will read something like this:
 > Hello! I'm Ms. Stevens, and I'll be teaching (you/your child) physics/earth science/what-have-you this year. I'm very excited to get to know (you/you and your child) and I look forward to a great year! If you ever need to get in contact with me, here's how to do so .... 
 3. Bi-weekly informal report cards, mostly just to let parents know if everything is okay. If a student is missing more than two assignments, this is where I'd make note of that. I'd also include a summary of what we just did and where we're going, along with important dates/deadlines. 
 4. Calls home for especially big deals --- both good and bad! Missing more than three assignments gets a call home, but so does getting more than a 98% on a test. Maybe 95% in a physics class, because physics is hard.
-5. Every quarter, a personalized letter, one to each student and one to their parents/guardians. Students' letters would be a place to encourage them; parents' letters would be a place to let them know in some more detail how their students are doing. 
 
 And just for students, some of these practices might be effective:
 1. Weekly mini-reports, with your current grade, any missing assignments, and a quick note of encouragement. 
