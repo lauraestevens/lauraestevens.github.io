@@ -14,11 +14,7 @@ We are really all of us --- parents, students, and teachers --- in a partnership
 So here are some ways I could keep channels of communication open with both parents and students:
 1. Introductory postcards/emails---one to each student, one to their parents/guardians. It will read something like this:
 > Hello! I'm Ms. Stevens, and I'll be teaching (you/your child) physics/earth science/what-have-you this year. I'm very excited to get to know (you/you and your child) and I look forward to a great year! If you ever need to get in contact with me, here's how to do so .... 
-3. Bi-weekly informal report cards, mostly just to let parents know if everything is okay. If a student is missing more than two assignments, this is where I'd make note of that. I'd also include a summary of what we just did and where we're going, along with important dates/deadlines. 
-4. Calls home for especially big deals --- both good and bad! Missing more than three assignments gets a call home, but so does getting more than a 98% on a test. Maybe 95% in a physics class, because physics is hard.
-
-And just for students, some of these practices might be effective:
-1. Weekly mini-reports, with your current grade, any missing assignments, and a quick note of encouragement. 
-2. Open office hours, maybe during lunch or for the first hour or so after school, to come check in, get some homework help, etc. 
+3. Bi-weekly informal report cards for students, mostly to let them know if they're missing assignments. Depending on the student's age and situation, it may be necessary to loop parents in as well: middle schoolers may need some extra help at home on keeping up with assignments, but for high schoolers, it's time to transfer some of that responsibility.
+4. Calls home for especially big deals --- both good and bad! Averaging a D because you have so many missing assignments definitely needs a call home, but so does getting more than a 98% on a test. Maybe 95% in a physics class, because physics is hard.
 
 I'd also like to address communication by action. I will go to all my students' games, even though sports are boring; I will go to their plays and concerts; I'll go to their Magic: The Gathering tournaments if they tell me about them. Showing up for kids does so much to build trust, and that's really the core purpose of communication. 

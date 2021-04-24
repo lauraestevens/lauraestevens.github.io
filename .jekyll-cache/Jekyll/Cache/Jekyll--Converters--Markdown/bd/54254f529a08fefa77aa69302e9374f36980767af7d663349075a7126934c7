@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Classroom Management Philosophy</title>
-<link rel="stylesheet" type="text/css" href="/assets/css/portfolio.css">
-</head>
-<body>
-<div class="grid">
-<div id="col-title">
-    <nav style="width:95%; float: left; display: flex; justify-content: space-around;">
-<a class=menu href="/"><h3>Laura E. Stevens</h3></a>
-  
-    <a  class=menu href="/philosophy.html" >
-      <h4>Management Philosophy</h4>
-    </a>
-  
-    <a  class=menu href="/rules.html" >
-      <h4>All About Rules</h4>
-    </a>
-  
-    <a  class=menu href="/communication.html" >
-      <h4>Communication</h4>
-    </a>
-  
-    <a  class=menu href="/lp.html" >
-      <h4>Lesson Plans</h4>
-    </a>
-  
-    <a  class=menu href="/udl.html" >
-      <h4>UDL</h4>
-    </a>
-  
-</nav>
-
-</div>
-<div id="col-content">
-<h1>Classroom Management Philosophy</h1>
-<p>To sum up my classroom management philosophy: provide structure, clear deadlines, and organization, be positive and roll with the punches, and teach my students to do the same.</p>
+I"�<p>To sum up my classroom management philosophy: provide structure, clear deadlines, and organization, be positive and roll with the punches, and teach my students to do the same.</p>
 
 <h2 id="structure">Structure</h2>
 <p>I finished my teaching program while also getting an MS in Geosciences, which served to crystallize my thoughts on the value of structure, because grad school has approximately none.</p>
@@ -60,31 +22,13 @@
 
 <p>So I want to get my kids comfortable with failure, including public failure, because that’s just part of the deal. They will have to do problems on the board and they will mess up. And I will mess up too, because public math in the morning is a recipe for disaster. So I’ll model graceful, instructive failure, because that’s built into the job.</p>
 
-<p>I also want to incorporate intentional practices to get my students okay with putting themselves out there and risking failure. I have used a wheel of names and Dungeons and Dragons dice to facilitate random cold-calling. When students are put on the spot like that, they are definitely uncomfortable at first, but once they realize that getting out there and guessing is actually productive rather than world-ending, it gets a lot easier for them, and they start volunteering their best guesses.</p>
-
-<p>All of this small-scale exposure to failure leads to our ultimate goal: students who can design their own experiments, gather data, and do science on their own. They may not feel confident about it at first, but every day they will be learning the importance of guessing and failing, and how integral it is to the process of science. Project-based learning is the ultimate culmination of that, and while I don’t believe that good science teaching should be entirely PBL (nor should it be entirely direct instruction), it is still an essential component. And it’s an incredibly empowering component, as long as students aren’t immediately thrown into the deep end.</p>
+<p>I also want to incorporate intentional practices to get my students okay with putting themselves out there and risking failure. I have used a wheel of names and Dungeons and Dragons dice to facilitate random cold-calling. When students are put on the spot like that, they are definitely uncomfortable at first, but once they realize that getting out there and guessing is actually productive rather than world-ending, it gets a lot easier for them.</p>
 
 <h2 id="feedback">Feedback</h2>
 <p>I’m big into private praise, because that way I can be honest and specific about what I’m seeing from students without letting everyone else in on anyone’s private business. So, if a student was having a terrible time with conservation of momentum problems, and then does well on their homework, I can give them feedback specific to that without making it a public event.</p>
 
-<p>Like <a href="http://www.safeandcivilschools.com/services/classroom_management.php" target="_blank">Sprick and friends</a>, I am also big into specific feedback, be it positive, negative, or neutral. Specificity makes praise about a student’s accomplishments rather than pleasing the teacher, and I think it makes the negative interactions more akin to gentle corrections, and therefore more palatable to a student.</p>
+<p>Like <a href="http://www.safeandcivilschools.com/services/classroom_management.php" target="_blank">Sprick and friends</a>, I am also all about specific feedback, be it positive, negative, or neutral. Specificity makes praise about a student’s accomplishments rather than pleasing the teacher, and I think it makes the negative interactions more akin to gentle corrections, and therefore more palatable to a student.</p>
 
 <p>I tend toward the wildly enthusiastic when lecturing, and I’m big into rewarding successful struggle, so I foresee a lot of high fives when we’re all allowed to touch again. And successful struggle is, I think, its own reward. You worked really hard and it paid off.</p>
 
-
-</div>
-</div>
-<div id="footer"><a class="menu" href="/" style="padding-left:20%;">home</a> <a class="menu"
-class='email
-href="mailto:x@y"
-'
-href
- =	'	
-&#x20;ma&#x69;&#x6C;&#x74;&#x6f;&#58;%2&#x30;l%6&#x31;u&#114;&#97;1&#x25;&#x32;e%&#55;&#51;&#x74;&#101;ve&#110;s%&#x34;&#x30;u%6&#x64;c&#x6F;&#x25;&#x36;e%6e&#x25;&#54;5&#x63;&#x25;&#55;&#x34;&#37;2e&#x75;&#x6D;t%&#x32;&#x65;&#37;&#x36;&#x35;d&#x25;75?
-'>&#108;&#x61;&#x75;&#x72;&#97;&#49;&#46;st&#x65;ve&#x6E;s&#x40;&#x75;<!--
-mailto:abuse@hotmail.com
-</a>
--->&shy;mco&#x6e;n&#101;&#99;&#x74;&#46;&#x75;&#x6D;&#116;&#46;&#101;d&#x75;</a> <a class="menu" href="about.html">about this site</a> </p>
-</body>
-</html>
-
+:ET
