@@ -1,14 +1,15 @@
 /*TEXT*/
- @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:wght@400;400i;700;700i|Roboto:wght@400;400i;700;700i&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;500;700&family=Philosopher:wght@400;700&display=swap');
 /* gray: 5a5852
 red: eb7b5b
 purple: d2bbc5*/
 
 :root {
-  --maincolor: #B9BB9A;
-  --accentone: #7F95A9; 
-  --accenttwo: #94BB80;
-  --bgcolor: #333B30;
+  --maincolor: #0c0c0c;
+  --accentone: #0c0c0c; 
+  --accenttwo: #e45f4d;
+  --accentlink: #c95444;
+  --bgcolor: #e5e5dc;
 /*yellow: e4bc00
 green: 6f7620;
 barf: b69e00
@@ -16,10 +17,11 @@ barf: b69e00
 */
 }
 
-body{	background: var(--bgcolor); 
-	font-family: 'Roboto', sans-serif; 
-	font-weight: 400;
+body{	background:  var(--bgcolor); 
+	font-family: 'Mulish', sans-serif; 
+	font-weight: 300;
 	color: var(--maincolor);
+	font-size:1.25em;
 	}
 
 p{	text-align: left; 
@@ -28,60 +30,75 @@ p{	text-align: left;
 }
 
 .caption{
-	text-align:center;
+	text-align: center;
+	font-style:italic;
 	font-size:0.8em;
+}
+.footer{
+	font-family: 'Mulish', sans-serif; 
+	font-size:0.3em; 
+	text-align:right;
+	font-style:italic;
+	line-height:0.75em;
+	padding-right:1em;
 }
 .math{	text-align:center;
 	color: #cb4b16;
 }
+blockquote{ font-size:0.9em;
+}
 
-h1{	font-family: 'Roboto Slab', serif; 
+h1{	font-family: 'Philosopher', sans-serif; 
 	text-transform: lowercase;
-	font-weight: 900;
+	font-weight: 700;
+	font-size: 5em;
+	text-align: right;
+	color: var(--accenttwo);
+	}
+
+h2{	font-family: 'Philosopher', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 700;
 	font-size: 4em;
-	text-align: center;
-	color: var(--accenttwo);
-	}
-
-h2{	font-family: 'Roboto Slab', sans-serif; 
-	text-transform: lowercase;
-	font-weight: 900;
-	font-size: 2em;
-	text-align: left;
-	font-style: italic; 
-	color: var(--accenttwo);
-	}
-h3{	font-family: 'Roboto Slab', sans-serif; 
-	text-transform: lowercase;
-	font-weight: 900;
-	font-size: 1.15em;
-	text-align: left; 
-	color: var(--accentone);
-	}
-h4{	font-family: 'Roboto Slab', sans-serif; 
-	text-transform: lowercase;
-	font-weight: 400;
 	font-style:italic;
-	font-size: 1em;
-	text-align: left; 
-	color: var(--bgcolor);
+	text-align: left;
+	color: var(--accenttwo);
+	}
+h3{	font-family: 'Philosopher', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 700;
+	font-size: 2em;
+	text-align: right; 
+	color: var(--accenttwo);	
+	}
+h4{	font-family: 'Philosopher', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 700;
+	font-size: 1.15em;
+	text-align: center; 
+	padding-right:3%;
+	margin-top:1em;
+	color: var(--accenttwo);
 	}
 #divide{padding:2em;}
 
 /* body links*/
 a:link {
-	color: var(--accenttwo);
-	text-decoration: underline; 
+	color: var(--accentlink);
+	text-decoration: none; 
+	font-weight:500;
 	}
 
 a:visited{
-	color: var(--accenttwo);
+	color: var(--accentlink);
 	text-decoration: none;
+	font-weight:500;
 	}
 
 a:hover { 
 	color: var(--maincolor); 
 	text-decoration: none; 
+	font-weight:500;
 	}
 
 a img {
@@ -107,45 +124,34 @@ a.menu:hover{
 	text-decoration: none; 
 	}
 a.tooltip{
-	font-weight:normal;
-	color:var(--accenttwo);
+	font-weight:300;
+	color:var(--maincolor);
 }
-/*Lists*/
+/*Lists & Data*/
 dt{	float:left;
+	padding-right:0.25em;
+	font-weight: 700;
 }
+dd{	padding-bottom:0.5em;
+}
+ul.nav{ 	list-style: '//';}
 /*Tooltips*/
 /* Tooltip container */
-.tooltip {
-    position: relative;
-    display: inline-block;target="_blank" rel="noopener noreferrer"
-    border-bottom: 1px dotted; /* If you want dots under the hoverable text */
+ol{	list-style:none;
+	text-indent:-3em;
+	padding-left:3em;
 }
 
-/* Tooltip text */
-.tooltip .ttt {
-    visibility: hidden;
-    width: 20em;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -10em;
-    background-color: #073642;
-    color: #93a1a1;
-    text-align: center;
-    padding: 5px;
-    border:1px solid #93a1a1;
-    box-shadow: rgba(0, 0, 0, 0.25) 3px 3px 3px 3px;
- 
-    /* Position the tooltip text - see examples below! */
-    position: absolute;
-    z-index: 1;
+table, th, td{
+	border: 1px solid var(--accenttwo);
+	border-collapse: collapse;
+	text-align:center;
+	padding-left:1em;
+	padding-right:1em;
+	margin-left: 12.5%;
+	margin-top:1em;
+	margin-bottom:1em;
 }
-
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .ttt {
-    visibility: visible;
-}
-</style>
-
 /*LAYOUT*/
 
 * {
@@ -153,44 +159,68 @@ dt{	float:left;
 }
 
 #col-content {
-	width: 75%;	
+	width: 100%;	
 	float: left;
 	text-align: left;
-	margin-left:12.5%;
-	/*padding-top:5%;*/
+	margin-right:-2%;
+	/*margin-left:10%;
+	padding-top:5%;*/
 }
 
 #col-l {
-	width: 50%;
-	margin-left:25%;	
-	float: left;
-	text-align: left;
-}
-
-#col-r {
-	width: 50%;
-	margin-right:25%;
+	width: 70%;
 	float: right;
 	text-align: left;
-	font-family: 'Roboto Slab', sans-serif; 
+	margin-top:-0.5em;
+	padding-right:1%;
+}
+
+#col-title {
+	width: 70%;
+	float:right;
+	margin-top:-1%;
+	padding:0;
+	/*position:fixed;*/
+	font-family: 'Philosopher', sans-serif; 
+	text-transform: lowercase;
+	font-weight: 700;
+	font-size: 5em;
+	text-align: right;
+	color: var(--accenttwo);
+}
+
+#col-nav {
+	width: 8em;
+	float: left;
+	height:150vh;
+	position:fixed;
+	text-align: left;
+	font-family: 'Philosopher', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 900;
-	font-size: 1.15em;
+	font-size: 2.3em;
+	list-style-type: none;
 	color: var(--accentone);
+	margin-top:-3%;
+	margin-left:-3%;
+	padding-left:3%;
+	padding-top:1%;
+	background: #ffffff;
 }
 #footer {
-	width: 75%; 
+	width: 70%; 
 	display: flex; 
+	float:left;
 	font-size: 0.8em;
 	border-top: 1px solid var(--maincolor);
 	justify-content: space-between; 
-	margin-left: 12.5%; 
+	margin-left: 28%; 
 	margin-top: 1%;
 }
 details > summary {
   	list-style: none;
 	text-align: center;
-	font-family: 'Roboto Slab', sans-serif; 
+	font-family: 'Philosopher', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 900;
 	font-size: 1.15em;
@@ -215,13 +245,17 @@ details > summary::-webkit-details-marker {
 }
 /* Media */
 video{
-	width: 100%;
-	float:left;
-	height:50vh;
+	height:66vh;
+	width:100%;
+}
+iframe{
+	height:66vh;
+	width:100%;
 }
 img {
 	width:100%;
 	margin-top:1%;
+	margin-left:-3%;
 }
 #button{
 	border: 1px solid #d33682;
