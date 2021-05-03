@@ -245,13 +245,13 @@ details > summary::-webkit-details-marker {
 }
 /* Media */
 video{
-	width: 100%;
-	float:left;
-	height:50vh;
+	height:66vh;
+	width:100%;
 }
 iframe{
 	height:66vh;
 	width:100%;
+	referrerpolicy: strict-origin-when-cross-origin;
 }
 img {
 	width:100%;
