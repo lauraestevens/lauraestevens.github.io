@@ -35,6 +35,8 @@ But it really ticks all the boxes --- students can learn from each other, suppor
 ### Lots of different methods of information transfer---both from me and from my students! 
 - Multiple modes of representation: presenting the _same_ information in _multiple_ ways gives everyone a chance to engage with the material, and gives more opportunity for students to consider an idea from multiple perspectives. 
 - For larger projects, I typically provide a few options for types of products that students can give me, and they can choose how they want to show me what they've learned.
+- As often as possible, I make digital copies of assignments available for students to type their responses, use with screen readers, or use with translation software.
+
 
 ## For metacognition
 ### Standard disection
