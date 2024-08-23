@@ -1,7 +1,9 @@
 - name: CV
   link: /cv.html
-- name: Management Philosophy
+- name: Philosophy
   link: /philosophy.html
+- name: Classroom Management
+  link: /management.html
 - name: All About Rules
   link: /rules.html
 - name: Communication
