@@ -11,5 +11,5 @@ title: Sample Work
 - <a href="assets/files/spectraLP.pdf">Spectra LP</a> and <a href="assets/files/spectraPPT.pdf">presentation</a>
 
 ## Labs and Activities
-- Exoplanets ([packet](/assets/files/10-5_Exoplanets.pdf), [excel template](/assets/files/10-5_Exoplanets.xlsx)): data processing, building power laws, testing models.
+- Exoplanets ([packet](/assets/files/10-5_Exoplanets.pdf), [excel template](/assets/files/10-5_Data.xlsx)): data processing, building power laws, testing models.
 - Excel Tutorial ([packet](/assets/files/excelTutorial.pdf), [excel template](/assets/files/excelTutorial.xlsx): basic math, using cell references, copying formulas.
