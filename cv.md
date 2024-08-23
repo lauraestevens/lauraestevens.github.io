@@ -24,7 +24,7 @@ College of Charleston, Charleston, SC
 *Received May 2013*
 
 # Experience
-## Education
+##  ... in teaching & communcating
 ### Lab Specialist
 
 2021-Present
@@ -71,7 +71,7 @@ Taught high school physics, middle/high school robotics, and middle/high school 
 - Taught the principles and process of engineering with the VEX Robotics kits, culminating in a class-wide competition at the end of the school year.
 - Taught classical physics with a little introductory astronomy for high school.
 
-## Research
+## ... in research
 ### Graduate Research Assistant
 
 2016-2021
