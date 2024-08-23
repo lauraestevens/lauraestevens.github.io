@@ -1,10 +1,12 @@
+- name: CV
+  link: /cv.html
 - name: Management Philosophy
   link: /philosophy.html
 - name: All About Rules
   link: /rules.html
 - name: Communication
   link: /communication.html
-- name: Lesson Plans
+- name: Sample Work
   link: /lp.html
 #- name: Accommodations
 #  link: /accoms.html
