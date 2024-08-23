@@ -2,7 +2,7 @@
 layout: cv
 title: Laura E. Stevens CV
 ---
-# <a id="ed">Education</a>
+# Education
 ### Post-Bac/Licensure: Secondary Science (Broadfield)
 
  University of Montana, Missoula, MT
@@ -23,7 +23,7 @@ College of Charleston, Charleston, SC
 
 *Received May 2013*
 
-# <a id="exp">Experience</a>
+# Experience
 ## Education
 ### Lab Specialist
 
@@ -97,11 +97,11 @@ Conducted a search for planets around other stars (exoplanets) by direct imaging
 - Modified and improved the programs we used to process our data.
 - Team discovered an exoplanet around kappa Andromedae, the most massive star known to harbor a planet.
 
-# <a id="pubs">Publications</a>
+# Publications
 - Stevens, Laura E., ["Modeling Stromatolite Formation with Diffusion-Limited Aggregation" (2021).](https://scholarworks.umt.edu/etd/11766]) Graduate Student Theses, Dissertations, & Professional Papers. 11766.
 - [“Direct Imaging Discovery of a ‘Super-Jupiter’ around the Late B-type Star κ And”](https://iopscience.iop.org/article/10.1088/2041-8205/763/2/L32/meta) Carson, J., Thalmann, C., Janson, M., Kozakis, T., Bonnefoy, M., Biller, B., Schlieder, J., Currie, T., McElwain, M., Goto, M., Henning, T., Brandner, W., Feldt, M., Kandori, R., Kuzuhara, M., **Stevens, L.**, et al. ApJL 763.2, L32 (2013).
 
-# <a id="skills">Skills</a>
+# Skills
 - **Programming Languages:** Python, Java, Mathematica, LaTeX, HTML/CSS, R
 - **Software:** Microsoft Office, iMovie, Audacity
 - **Operating Systems:** Linux, Windows, OSX
