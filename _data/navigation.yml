@@ -4,8 +4,8 @@
   link: /philosophy.html
 - name: Classroom Management
   link: /management.html
-- name: All About Rules
-  link: /rules.html
+#- name: All About Rules
+#  link: /rules.html
 - name: Communication
   link: /communication.html
 - name: UDL Strategies
