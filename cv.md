@@ -33,7 +33,7 @@ Teaching the lab for PHYS 104: Scientific Inquiry. The lab component of this cou
 2019-2020    
 *University of Montana, Missoula, MT*
 
-Taught the introductory geoscience lab for both majors and non-majors. 
+Taught the introductory geosciences lab for both majors and non-majors. 
 - Prepared students with a mini-lecture introducing new concepts and connecting back to their regular lecture.
 - Facilitated weekly lab activities including chemical and physical testing of rocks and minerals, mapping activities, and modeling earth system dynamics.
 
