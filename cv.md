@@ -30,7 +30,7 @@ Teaching the lab for PHYS 104: Scientific Inquiry. The lab component of this cou
 - Develop new materials and modified previously existing materials. 
 
 ### Teaching Assistant
-2018-2020    
+2019-2020    
 *University of Montana, Missoula, MT*
 
 Taught the introductory geoscience lab for both majors and non-majors. 
