@@ -21,10 +21,10 @@ These notes are all for my scientific inquiry class. Students are undergraduate 
 - [Building Models from Scratch](/assets/files/guidedNotes_ch10.pdf)
 - [Scattering](/assets/files/guidedNotes_ch13.pdf)
 
-## video lectures
+## videos
 <div style="width:50%; float:left;">
 <h3>Models</h3>
-A pre-lab lecture video for undergraduate non-STEM major class. This class happens on week 8 of a 13-week semester. 
+A pre-lab lecture video for Scientific Inquiry. This was a substitute for an in-person class meeting because there was a school holiday. This class happens on week 8 of a 13-week semester. 
 
 Discusses ... 
 <ul>

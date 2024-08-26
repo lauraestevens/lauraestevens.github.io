@@ -27,6 +27,7 @@ This means I design lessons and activities with ...
  - ... lots of opportunities to probe for feedback.
  
  ### Active and collaborative learning!
+ 
 I mean it's not like I'm about to say, "I love passive learning. Just let them soak up my vast knowledge!" 
 
 But it really ticks all the boxes --- students can learn from each other, support each other, and form the relationships that make them feel psychologically safe and ready to take the risks needed to learn.So I make liberal use of think-pair-shares, small-group problem-solving, brainstorming sessions --- anything to get students working, together. 
