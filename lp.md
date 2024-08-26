@@ -23,12 +23,14 @@ These notes are all for my scientific inquiry class. Students are undergraduate 
 
 ## video lectures
 <div style="width:50%; float:left;">
-### Models 
+<h3>Models</h3>
 A pre-lab lecture video for undergraduate non-STEM major class. This class happens on week 8 of a 13-week semester. 
 
 Discusses ... 
-- What is a model? 
-- How do we test models? 
-- How can we use linear regression analysis to test a non-linear model?
+<ul>
+<li>What is a model? </li>
+<li>How do we test models?  </li>
+<li>How can we use linear regression analysis to test a non-linear model? </li>
+</ul>
 </div>
 <div style="width:50%; float:right"><iframe src="https://www.youtube.com/embed/ipi2pNW4jaY?si=_sE4iiGTXm-GaYoK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
