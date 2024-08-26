@@ -26,7 +26,7 @@ This means I design lessons and activities with ...
  - ... concepts explained to students using language; models and illustrations; examples and nonexamples.
  - ... lots of opportunities to probe for feedback.
  
- ### Active and collaborative learning!
+### Active and collaborative learning!   
  
 I mean it's not like I'm about to say, "I love passive learning. Just let them soak up my vast knowledge!" 
 
