@@ -27,7 +27,7 @@ Teaching the lab for PHYS 104: Scientific Inquiry. The lab component of this cou
 
 - Prepare students for the week's lab with a pre-lab lecture. 
 - Facilitate a lab with open, drop-in hours. 
-- Develop new materials and modified previously existing materials. 
+- Develop new materials and modify previously existing materials. 
 
 ### Teaching Assistant
 2019-2020    
