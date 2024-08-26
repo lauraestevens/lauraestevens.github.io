@@ -9,7 +9,7 @@ So here are a few UDL-appropriate strategies I use in my classroom.
 
 ## For goal-setting & executive function: 
 ### Explicit goal-setting time, with regularly scheduled check-ins
-- Part of my day 1 activities always requires students to set three goals for themselves --- that do not have to do with grades. We check in on them periodically as our time together progresses, and at the end of the semester, they do a reflection on how they met their goals --- what worked, what didn't, and what they're taking away from the experience.
+Part of my day 1 activities always requires students to set three goals for themselves --- that do not have to do with grades. We check in on them periodically as our time together progresses, and at the end of the semester, they do a reflection on how they met their goals --- what worked, what didn't, and what they're taking away from the experience.
 
 ### Guided notes
 Scaffolding the note-taking process can help both with executive function and metacognition, so I really like using guided notes. My guided notes are structured more as a workbook, with breaks for think-pair-share note-taking, working sample problems, and filling out graphic organizers. 
@@ -30,7 +30,7 @@ This means I design lessons and activities with ...
  
 I mean it's not like I'm about to say, "I love passive learning. Just let them soak up my vast knowledge!" 
 
-But it really ticks all the boxes --- students can learn from each other, support each other, and form the relationships that make them feel psychologically safe and ready to take the risks needed to learn.So I make liberal use of think-pair-shares, small-group problem-solving, brainstorming sessions --- anything to get students working, together. 
+But it really ticks all the boxes --- students can learn from each other, support each other, and form the relationships that make them feel psychologically safe and ready to take the risks needed to learn. So I make liberal use of think-pair-shares, small-group problem-solving, brainstorming sessions --- anything to get students working, together. Guided notes also help here; whereas a student may just sit and listen without engaging, providing guided notes and making them the backbone of the "I-do/We-do" portions of direct instruction gets students actively participating in class.
 
 ## For perception and recruiting interest
 ### Lots of different methods of information transfer---both from me and from my students! 
@@ -40,7 +40,7 @@ But it really ticks all the boxes --- students can learn from each other, suppor
 
 
 ## For metacognition
-### Standard disection
+### Standard dissection
 
 In my pre-service field experience, I sat in on an eighth-grade physical science class the day they began a new unit, and their teacher projected the standards they were addressing on the board and guided the students as they dissected them. What did each term mean? What did they already know about those terms? What did they think they'd need to learn about them? What steps would they take to do that? It took most of the class to do, but those students knew _exactly_ what they'd be spending the next month of their life learning. 
 
