@@ -34,7 +34,7 @@ p{	text-align: left;
 	color: #cb4b16;
 }
 
-h1{	font-family: 'Roboto Condensed', serif; 
+h1{	font-family: 'Roboto Slab', serif; 
 	text-transform: lowercase;
 	font-weight: 900;
 	font-style: italic;
@@ -43,7 +43,7 @@ h1{	font-family: 'Roboto Condensed', serif;
 	color: var(--accenttwo);
 	}
 
-h2{	font-family: 'Roboto Condensed', sans-serif; 
+h2{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 900;
 	font-size: 2em;
@@ -51,14 +51,14 @@ h2{	font-family: 'Roboto Condensed', sans-serif;
 	font-style: italic; 
 	color: var(--accenttwo);
 	}
-h3{	font-family: 'Roboto Condensed', sans-serif; 
+h3{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 900;
 	font-size: 1.15em;
 	text-align: left; 
 	color: var(--accentone);
 	}
-h4{	font-family: 'Roboto Condensed', sans-serif; 
+h4{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 400;
 	font-style:italic;
@@ -221,7 +221,7 @@ img {
 	border: 1px solid #d33682;
 	text-align:center;
 	color: #859900;
-	font-family: 'Uni Sans Demo Heavy Caps', sans-serif; 
+	font-family: 'Roboto', sans-serif; 
 	font-weight: 700;
 	padding:2%;
 	margin-top:1em;
