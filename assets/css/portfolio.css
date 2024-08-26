@@ -112,38 +112,6 @@ a.tooltip{
 /*Lists*/
 dt{	float:left;
 }
-/*Tooltips*/
-/* Tooltip container */
-.tooltip {
-    position: relative;
-    display: inline-block;target="_blank" rel="noopener noreferrer"
-    border-bottom: 1px dotted; /* If you want dots under the hoverable text */
-}
-
-/* Tooltip text */
-.tooltip .ttt {
-    visibility: hidden;
-    width: 20em;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -10em;
-    background-color: #073642;
-    color: #93a1a1;
-    text-align: center;
-    padding: 5px;
-    border:1px solid #93a1a1;
-    box-shadow: rgba(0, 0, 0, 0.25) 3px 3px 3px 3px;
- 
-    /* Position the tooltip text - see examples below! */
-    position: absolute;
-    z-index: 1;
-}
-
-/* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .ttt {
-    visibility: visible;
-}
-</style>
 
 /*LAYOUT*/
 
@@ -214,7 +182,7 @@ img {
 	width:100%;
 	margin-top:1%;
 }
-#button{
+#button{ /*I don't know that I need a button but I like keeping the code here just in case.*/
 	border: 1px solid #d33682;
 	text-align:center;
 	color: #859900;
