@@ -9,7 +9,7 @@ purple: d2bbc5*/
   --accentone: #D3AB49;
   --accenttwo: #4A656D;
   --accentthree: #D3AB49;
-  --bgcolor: #F7F0E1;
+  --bgcolor: #F2F0E9;
 }
 
 body{	background: var(--bgcolor); 
@@ -94,7 +94,7 @@ a.title:hover{
 	}
 	
 a.menu{
-	color: var(--maincolor);
+	color: var(--accentthree);
 	text-decoration: none; 
 	}
 a.menu:hover{
