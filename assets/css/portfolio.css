@@ -7,7 +7,8 @@ purple: d2bbc5*/
 :root {
   --maincolor: #50303E;
   --accentone: #D3AB49; 
-  --accenttwo: #658993;
+  --accenttwo: #4A656D;
+  --accentthree: #765E25;
   --bgcolor: #EBDEC5;
 /*yellow: e4bc00
 green: 6f7620;
@@ -54,7 +55,6 @@ h3{	font-family: 'Roboto Slab', sans-serif;
 	font-weight: 900;
 	font-size: 1.15em;
 	text-align: left; 
-	color: var(--accentone);
 	}
 h4{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
