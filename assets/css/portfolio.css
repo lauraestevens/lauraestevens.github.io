@@ -8,7 +8,7 @@ purple: d2bbc5*/
   --maincolor: #50303E;
   --accentone: #D3AB49;
   --accenttwo: #4A656D;
-  --bgcolor: #F2F0E9;
+  --bgcolor: #EDE8E4;
 }
 
 body{	background: var(--bgcolor); 
