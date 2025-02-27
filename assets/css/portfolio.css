@@ -8,6 +8,7 @@ purple: d2bbc5*/
   --maincolor: #50303E;
   --accentone: #D3AB49;
   --accenttwo: #4A656D;
+  --accentthree: #826827;
   --bgcolor: #EDE8E4;
 }
 
@@ -50,6 +51,9 @@ h3{	font-family: 'Roboto Slab', sans-serif;
 	font-weight: 900;
 	font-size: 1.15em;
 	text-align: left; 
+	color: var(--accentthree);
+	}
+h3.menu{	
 	color: var(--accentone);
 	}
 h4{	font-family: 'Roboto Slab', sans-serif; 
