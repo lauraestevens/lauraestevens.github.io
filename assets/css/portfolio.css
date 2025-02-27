@@ -94,7 +94,7 @@ a.title:hover{
 	}
 	
 a.menu{
-	color: var(--accentone);
+	color: var(--maincolor);
 	text-decoration: none; 
 	}
 a.menu:hover{
