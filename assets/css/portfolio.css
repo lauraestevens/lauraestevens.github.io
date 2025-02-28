@@ -10,7 +10,7 @@ ECE9EA*/
   --accentone: #D3AB49;
   --accenttwo: #4A656D;
   --accentthree: #BF3772;
-  --bgcolor: #F1F0E5; 
+  --bgcolor: #F1F0E5;
 }
 
 body{	background: var(--bgcolor); 
