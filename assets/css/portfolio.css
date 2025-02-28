@@ -6,11 +6,11 @@ purple: d2bbc5
 ECE9EA*/
 
 :root {
-  --maincolor: #50303E;
+  --maincolor: #601C3A;
   --accentone: #D3AB49;
   --accenttwo: #4A656D;
-  --accentthree: #826827;
-  --bgcolor: #EDE8E4; 
+  --accentthree: #BF3772;
+  --bgcolor: #F1F0E5; 
 }
 
 body{	background: var(--bgcolor); 
