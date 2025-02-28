@@ -21,17 +21,7 @@ body{	background: var(--bgcolor);
 
 p{	text-align: left; 
 	}	
-.wow{	font-weight:bold;
-}
-
-.caption{
-	text-align:center;
-	font-size:0.8em;
-}
-.math{	text-align:center;
-	color: #cb4b16;
-}
-
+	
 h1{	font-family: 'Roboto Slab', serif; 
 	text-transform: lowercase;
 	font-weight: 900;
@@ -47,6 +37,7 @@ h2{	font-family: 'Roboto Slab', sans-serif;
 	text-align: left;
 	color: var(--accenttwo);
 	}
+	
 h3{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 900;
@@ -54,9 +45,9 @@ h3{	font-family: 'Roboto Slab', sans-serif;
 	text-align: left; 
 	color: var(--accentthree);
 	}
-h3.menu{	
-	color: var(--accentone);
-	}
+	
+h3.menu{	color: var(--accentone);}
+	
 h4{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
 	font-weight: 400;
@@ -64,6 +55,7 @@ h4{	font-family: 'Roboto Slab', sans-serif;
 	text-align: left; 
 	color: var(--bgcolor);
 	}
+	
 #divide{padding:2em;}
 
 /* body links*/
@@ -92,6 +84,7 @@ a.title{
 	text-decoration: none; 
 	font-size:2em;
 	}
+	
 a.title:hover{
 	color:var(--accenttwo);
 	font-weight: bold; 
@@ -108,7 +101,7 @@ a.menu:hover{
 	}
 a.tooltip{
 	font-weight:normal;
-	color:var(--accenttwo);
+	color: var(--accenttwo);
 }
 /*Lists*/
 dt{	float:left;
