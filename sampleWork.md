@@ -17,10 +17,10 @@ These labs are both for my scientific inquiry class. Students are undergraduate 
 
 ## Scaffolded note-taking
 These notes are all for my scientific inquiry class. Students are undergraduate non-STEM majors, primarily freshmen. The samples here cover different points throughout the semester-long course. 
-- Models and "the" Scientific Method: [guided notes](/assets/files/guidedNotes_ch1.pdf), [accompanying ppt](/assets/files/pll1.ppt)
-- Uncertainty and Statistics: [guided notes](/assets/files/guidedNotes_ch5.pdf), [accompanying ppt](/assets/files/pll5.ppt)
-- Building Models from Scratch: [guided notes](/assets/files/guidedNotes_ch10.pdf), [accompanying ppt](/assets/files/pll10.ppt)
-- Scattering: [guided notes](/assets/files/guidedNotes_ch13.pdf), [accompanying ppt](/assets/files/pll13.ppt)
+- Models and "the" Scientific Method: [guided notes](/assets/files/guidedNotes_ch1.pdf), [accompanying ppt](/assets/files/pll1.pptx)
+- Uncertainty and Statistics: [guided notes](/assets/files/guidedNotes_ch5.pdf), [accompanying ppt](/assets/files/pll5.pptx)
+- Building Models from Scratch: [guided notes](/assets/files/guidedNotes_ch10.pdf), [accompanying ppt](/assets/files/pll10.pptx)
+- Scattering: [guided notes](/assets/files/guidedNotes_ch13.pdf), [accompanying ppt](/assets/files/pll13.pptx)
 
 ## Videos
 <div style="width:50%; float:left;">
