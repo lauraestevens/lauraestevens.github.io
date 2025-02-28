@@ -46,7 +46,10 @@ h3{	font-family: 'Roboto Slab', sans-serif;
 	color: var(--accentthree);
 	}
 	
-h3.menu{	color: var(--accentone);}
+h3.menu{	
+  color: var(--accentone);
+  
+}
 	
 h4{	font-family: 'Roboto Slab', sans-serif; 
 	text-transform: lowercase;
