@@ -2,14 +2,15 @@
  @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:wght@100..900&display=swap|Roboto:400,400i,700,700i&display=swap');
 /* gray: 5a5852
 red: eb7b5b
-purple: d2bbc5*/
+purple: d2bbc5
+ECE9EA*/
 
 :root {
   --maincolor: #50303E;
   --accentone: #D3AB49;
   --accenttwo: #4A656D;
   --accentthree: #826827;
-  --bgcolor: #EDE8E4;
+  --bgcolor: #EDE8E4; 
 }
 
 body{	background: var(--bgcolor); 
