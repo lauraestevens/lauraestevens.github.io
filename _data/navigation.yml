@@ -4,13 +4,8 @@
   link: /philosophy.html
 - name: Classroom Management
   link: /management.html
-<<<<<<< HEAD
-=======
-#- name: All About Rules
-#  link: /rules.html
 - name: Communication
   link: /communication.html
->>>>>>> parent of 76fe486 (Some navigation changes)
 - name: UDL Strategies
   link: /udl.html
 - name: Sample Work
